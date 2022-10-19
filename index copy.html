@@ -9,6 +9,7 @@
     <meta name="robots" content="index">
     <script src="https://kit.fontawesome.com/7bf8429dfd.js" crossorigin="anonymous"></script>
         <title>JellyFish</title>
+        <link rel="stylesheet" type="text/css" href="./bootstrap.css"></link>
         <link rel="stylesheet" type="text/css" href="index.css"></link>
 	    <link rel="icon" href="Assets//1.png">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap" rel="stylesheet">
@@ -45,18 +46,22 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, quod ab asperiore velit? Reiciendis saepe ipsum illo deleniti doloremque!</p> 
             <img class="Grow" src="Assets//Grow.png"></img>
 
-        <section class="section-grid">
-            <div class="Grid-container"> 
-                <div class="Grid-item"> 
-                    <a href="Growshop.html"><img class="growshop" src="Assets//Growshop.jpg"></a>
-                </div>
-                <div class="Grid-item1"> 
-                    <a href="Tobacco.html"><img class="Tabaqueria" src="Assets//Tobacco.jpg" alt="Grow Shop"></a>
-                </div>
-                <div class="Grid-item"> 
-                <a href="Coffeeshop.html"><img class="Coffeeshop" src="Assets//Coffeeshop.jpg" alt="Grow Shop"></a>
-                </div>
+        <section class="section-grid-boostrap">
+        <div class="container-xl">
+            <div class="row">
+                <div class="col-9" id="articulo-grid-start1"> <a href="Growshop.html"><img class="growshop" src="Assets//Growshop.jpg"></div>
+                <div class="col-3"></div>
             </div>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-9" id="articulo-grid-medio"><a href="Tobacco.html"><img class="Tabaqueria" src="Assets//Tobacco.jpg" alt="Grow Shop"></div>
+            </div>
+            <div class="row">
+                <div class="col-9" id="articulo-grid-start2"><a href="Coffeeshop.html"><img class="Coffeeshop" src="Assets//Coffeeshop.jpg" alt="Grow Shop"></a></div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+            
         </section>
     </main>
     
@@ -83,6 +88,8 @@
             </div> 
         </div>
     </footer>
+    <script src="https://kit.fontawesome.com/7bf8429dfd.js" crossorigin="anonymous"></script>
+    <script src="./bootstrap.bundle.js"></script>
 </body>
 </html>
 

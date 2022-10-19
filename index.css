@@ -15,6 +15,7 @@
 
 nav
    {
+    background-color: white;
     border-style: solid;
     border-color: rgb(150, 3, 101);
     border: 10px;
@@ -40,8 +41,10 @@ nav ul li a
     border-radius: 3px;}
 
 nav ul li a.active, li a:hover
-   {background-color: rgb(177, 0, 124);
-    transition: 1s;}
+   {background-color: rgb(194, 40, 148);
+    transition: 1s;
+    color: white;
+}
 
 .Logojelly
    {width: 80px;
@@ -77,6 +80,7 @@ hr {
 .flex-container-h1-inicial {
     display: flex;
     height: 550px;
+    width: 100%;
     background-image: url(./Assets/l23.jpg);
     background-size: 85rem 50rem; 
     justify-content: center;
@@ -236,22 +240,27 @@ grid-row: 3/4;
 
     /*Css perteneciente a la pagina Grow*/
     .bodygrow{
-        background-image: url(Assets//Violet.jpg);
-        background-size: 1350px;
-        background-position-y: -200px;
-        background-repeat:no-repeat;}
+        background-image: url(./Assets/Niidea.avif);}
     
-    
+.flex-container-h1-grow {
+    display: flex;
+    height: 550px;
+    width: 100%;
+    background-image: url(./Assets/photogrow.jpg);
+    background-size: 85rem 50rem; 
+    justify-content: center;
+    align-items: center;
+}
 .productos_grow_img1
    {width: 55%;
     height: 150px;
     margin-top: 15px;
     position: relative;
     left: 45%;
-    background-color: #4C1094;
+    background-color: #ffdf00;
     border: 10px;
     border-style:groove;
-    border-color: #4C1094; 
+    border-color: #ffdf00; 
     border-right: none;
     }
 
@@ -259,10 +268,10 @@ grid-row: 3/4;
    {width: 55%;
     height: 150px;
     margin-top: 15px;
-    background-color:#F9079A;
+    background-color:#bccc80;
     border: 10px;
     border-style: groove;
-    border-color:#F9079A; 
+    border-color:#bccc80; 
     border-left: none;
 }
 
@@ -320,21 +329,27 @@ grid-row: 3/4;
 
     /*Css perteneciente a la pagina coffee*/
     .body_coffee{
-        background-image: url(Assets//Green.jpg);
-        background-size: 1350px;
-        background-repeat: no-repeat;}
+        background-image: url(./Assets/Niidea.avif);}
 
-    
+.flex-container-h1-coffee {
+display: flex;
+height: 550px;
+width: 100%;
+background-image: url(./Assets/weed.jpg);
+background-size: 85rem 50rem; 
+justify-content: center;
+align-items: center;}
+
 .productos_coffee_img1
    {width: 55%;
     height: 150px;
     margin-top: 15px;
     position: relative;
     left: 45%;
-    background-color: #39ca00;
+    background-color: #732487;
     border: 10px;
     border-style:groove;
-    border-color: #26be00; 
+    border-color: #732487; 
     border-right: none;
     }
 
@@ -402,10 +417,16 @@ grid-row: 3/4;
 
         /*Css perteneciente a la pagina tobacco*/
         .body_tobacco{
-            background-image: url(Assets//tobacco1.jpg);
-            background-size: 1350px;
-            background-repeat: no-repeat;}
+            background-image: url(./Assets/Niidea.avif);}
 
+.flex-container-h1-tobacco {
+    display: flex;
+    height: 550px;
+    width: 100%;
+    background-image: url(./Assets/img-tobacco.jpg);
+    background-size: 85rem 50rem; 
+    justify-content: center;
+    align-items: center;}
 
 .productos_tobacco_img1
     {width: 55%;
@@ -413,20 +434,20 @@ grid-row: 3/4;
      margin-top: 15px;
      position: relative;
      left: 45%;
-     background-color: #4e3b07;
+     background-color: #8b4513;
      border: 10px;
      border-style:groove;
-     border-color: #4e3b07; 
+     border-color: #8b4513; 
      border-right: none;}
  
 .productos_tobacco_img2
     {width: 55%;
      height: 150px;
      margin-top: 15px;
-     background-color:#7d8000;
+     background-color:#561a1c;
      border: 10px;
      border-style: groove;
-     border-color:#7d8000; 
+     border-color:#561a1c; 
      border-left: none;}
 
 .img_tobacco_cogo1 
@@ -515,8 +536,36 @@ grid-row: 3/4;
     
     
     
+    /*Css para los boostraps*/
+.section-grid
+{
+    background-image: url(./Assets/Niidea.avif);
+}
+.col-9{
+    display: relative;
+    height: 400px;
+    width: 700px;
+}
 
+#articulo-grid-medio {
+    position: relative;
+    right: -30%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
 
+#articulo-grid-start1 {
+    position: relative;
+    left: -10%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
 
+#articulo-grid-start2 {
+    position: relative;
+    left: -10%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
 
 
