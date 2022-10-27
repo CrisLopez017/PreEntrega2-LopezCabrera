@@ -1057,7 +1057,7 @@ align-items: center;}
     color: white;
     }
 
-  @-webkit-keyframes vanishIn {
+  @keyframes vanishIn {
     0% {
       opacity: 0;
       transform-origin: 50% 50%;
