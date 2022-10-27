@@ -999,6 +999,33 @@ align-items: center;}
     border-radius: 15px;
 }
 
+#h2-1-B{
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 42rem;
+    font-size: 22px;
+    color: white;
+    }
+
+#h2-2-B{
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 6.4rem;
+    font-size: 22px;
+    color: white;
+    }
+
+#h2-3-B{
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 42rem;
+    font-size: 22px;
+    color: white;
+    }
+
   @-webkit-keyframes vanishIn {
     0% {
       opacity: 0;
@@ -1039,7 +1066,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1047,18 +1074,18 @@ align-items: center;}
     font-size: 22px;
     color: white;
     }
-    #h2-2{
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 5rem;
     font-size: 22px;
     color: white;
     }
-    #h2-3{
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
+    top: 12%;
     left: 34rem;
     font-size: 22px;
     color: white;
@@ -1082,7 +1109,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
    {position: relative;
     display: block;
     width: 41.66em;
@@ -1090,7 +1117,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
     
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1098,18 +1125,18 @@ align-items: center;}
     font-size: 22px;
     color: white;
     }
-    #h2-2{
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 5rem;
     font-size: 22px;
     color: white;
     }
-    #h2-3{
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
+    top: 12%;
     left: 34rem;
     font-size: 22px;
     color: white;
@@ -1133,14 +1160,14 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
     {position: relative;
     display: block;
     width: 37.5em;
     height: 370px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1148,19 +1175,19 @@ align-items: center;}
     font-size: 22px;
     color: white;
     }
-    #h2-2{
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 5rem;
     font-size: 22px;
     color: white;
     }
-    #h2-3{
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
-    left: 29rem;
+    top: 12%;
+    left: 29.4rem;
     font-size: 22px;
     color: white;
     }    }
@@ -1183,14 +1210,14 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
     {position: relative;
     display: block;
     width: 33.33em;
     height: 360px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1198,19 +1225,19 @@ align-items: center;}
     font-size: 22px;
     color: white;
     }
-    #h2-2{
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 5rem;
     font-size: 22px;
     color: white;
     }
-    #h2-3{
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
-    left: 25rem;
+    top: 12%;
+    left: 25.4rem;
     font-size: 22px;
     color: white;
     }     }
@@ -1233,37 +1260,38 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
     {position: relative;
     display: block;
     width: 29.16em;
     height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
-    #h2-1{
+
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 22rem;
     font-size: 22px;
-    color: white;
-    }
-    #h2-2{
+    color: white;}
+
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 4.2rem;
     font-size: 22px;
-    color: white;
-    }
-    #h2-3{
+    color: white;}
+
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
-    left: 21rem;
+    top: 12%;
+    left: 21.2rem;
     font-size: 22px;
-    color: white;
-    }     }
+    color: white;}
+}
         
 
 @media screen and (max-width: 600px) {
@@ -1283,7 +1311,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
     {position: relative;
     display: block;
     width: 25em;
@@ -1291,7 +1319,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
         
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1299,21 +1327,22 @@ align-items: center;}
     font-size: 22px;
     color: white;}
 
-    #h2-2{
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 3.7rem;
     font-size: 22px;
     color: white;}
         
-    #h2-3{
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
-    left: 17rem;
+    top: 12%;
+    left: 17.3rem;
     font-size: 22px;
-    color: white;}    }
+    color: white;}    
+}
 
 
 @media screen and (max-width: 500px) {
@@ -1333,7 +1362,7 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
+    .Coffeeshop_boostrap
     {position: relative;
     display: block;
     width: 20.83em;
@@ -1341,28 +1370,28 @@ align-items: center;}
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
     
-    #h2-1{
+    #h2-1-B{
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 14rem;
     font-size: 22px;
-    color: white;
-    }
-    #h2-2{
+    color: white;}
+
+    #h2-2-B{
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 3.7rem;
     font-size: 22px;
-    color: white;
-    }
-    #h2-3{
+    color: white;}
+
+    #h2-3-B{
     z-index: 1;
     position: relative;
-    top: 79%;
-    left: 13rem;
+    top: 12%;
+    left: 13.3rem;
     font-size: 22px;
-    color: white;
-    }    }
+    color: white;}    
+}
 
