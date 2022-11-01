@@ -33,7 +33,7 @@
     height: 390px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -82,7 +82,7 @@
     height: 380px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -131,7 +131,7 @@
     height: 370px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -180,7 +180,7 @@
     height: 360px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -229,7 +229,7 @@
     height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -278,7 +278,7 @@
     height: 340px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -327,7 +327,7 @@
     height: 330px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -673,7 +673,8 @@ h3 {
     grid-column: 2/4;
     grid-row: 2/3; }
 
-#h2-1 {
+#h2-1, #h2-2, #h2-3 {
+  display: inline;
   z-index: 1;
   position: relative;
   top: 3rem;
@@ -682,20 +683,11 @@ h3 {
   color: white; }
 
 #h2-2 {
-  z-index: 1;
+  display: inline;
   position: relative;
-  top: 3rem;
-  left: 6.4rem;
-  font-size: 22px;
-  color: white; }
-
-#h2-3 {
-  z-index: 1;
-  position: relative;
-  top: 3rem;
-  left: 42rem;
-  font-size: 22px;
-  color: white; }
+  left: 19rem;
+  display: inline;
+  top: -23rem; }
 
 .growshop {
   position: relative;
@@ -709,7 +701,7 @@ h3 {
   position: relative;
   width: 50em;
   height: 400px;
-  left: 10%;
+  left: 34.5%;
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px; }
 
@@ -731,7 +723,7 @@ h3 {
     position: relative;
     width: 45.83em;
     height: 390px;
-    left: 10%;
+    left: 46%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -749,7 +741,8 @@ h3 {
     height: 390px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -757,13 +750,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 18rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -781,7 +776,7 @@ h3 {
     position: relative;
     width: 41.66em;
     height: 380px;
-    left: 10%;
+    left: 44.5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -798,7 +793,8 @@ h3 {
     height: 380px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -806,13 +802,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 16rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -830,7 +828,7 @@ h3 {
     position: relative;
     width: 37.5em;
     height: 370px;
-    left: 10%;
+    left: 42.5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -847,7 +845,8 @@ h3 {
     height: 370px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -855,13 +854,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 13rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -879,7 +880,7 @@ h3 {
     position: relative;
     width: 33.33em;
     height: 360px;
-    left: 10%;
+    left: 40.2%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -896,7 +897,8 @@ h3 {
     height: 360px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -904,13 +906,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 11rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -928,7 +932,7 @@ h3 {
     position: relative;
     width: 29.16em;
     height: 350px;
-    left: 10%;
+    left: 35%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -945,7 +949,8 @@ h3 {
     height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -953,13 +958,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 9rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -977,7 +984,7 @@ h3 {
     position: relative;
     width: 25em;
     height: 340px;
-    left: 10%;
+    left: 31%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -994,7 +1001,8 @@ h3 {
     height: 340px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1002,13 +1010,15 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 7rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -1026,7 +1036,7 @@ h3 {
     position: relative;
     width: 20.83em;
     height: 330px;
-    left: 10%;
+    left: 56%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
   .growshop {
@@ -1043,7 +1053,8 @@ h3 {
     height: 330px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1 {
+  #h2-1, #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -1051,16 +1062,18 @@ h3 {
     font-size: 22px;
     color: white; }
   #h2-2 {
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 11rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 79%;
+    top: 18rem;
     left: 13rem;
     font-size: 22px;
     color: white; } }
@@ -1254,310 +1267,431 @@ h3 {
   font-size: 22px;
   color: white; }
 
-@media screen and (max-width: 1100px) {
-  .Tabaqueria {
-    position: relative;
+  @media screen and (max-width: 1100px) {
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+
+    .Tabaqueria
+   {position: relative;
     width: 45.83em;
     height: 390px;
-    left: 10%;
+    left: 46%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+
+    .growshop
+   {position: relative;
     display: block;
     width: 45.83em;
     height: 390px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+
+    .Coffeeshop
+   {position: relative;
+    top: 70%;
     display: block;
     width: 41.66em;
     height: 390px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 38rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2-B {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 5rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3-B {
-    z-index: 1;
-    position: relative;
-    top: 12%;
-    left: 34rem;
-    font-size: 22px;
-    color: white; } }
+    border-bottom-right-radius: 30px;}
 
-@media screen and (max-width: 1000px) {
-  .Tabaqueria {
-    position: relative;
+    #h2-1{
+        display: inline;
+        z-index: 1;
+        position: relative;
+        top: 3rem;
+        left: 38rem;
+        font-size: 22px;
+        color: white;
+        }
+        #h2-2{
+        display: inline;
+        z-index: 1;
+        position: relative;
+        top: 3rem;
+        left: 18rem;
+        font-size: 22px;
+        color: white;
+        }
+        #h2-3{
+        display: inline;
+        z-index: 1;
+        position: relative;
+        top: 79%;
+        left: 34rem;
+        font-size: 22px;
+        color: white;
+        }
+   }
+
+  @media screen and (max-width: 1000px) {
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 41.66em;
     height: 380px;
-    left: 10%;
+    left: 44.5%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+    
+    .growshop
+    {position: relative;
     display: block;
     width: 41.66em;
     height: 380px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 41.66em;
     height: 380px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+    
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 34rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 5rem;
+    left: 16rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
+    top: 79%;
     left: 34rem;
     font-size: 22px;
-    color: white; } }
-
+    color: white;
+    }
+    }
+    
 @media screen and (max-width: 900px) {
-  .Tabaqueria {
-    position: relative;
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 37.5em;
     height: 370px;
-    left: 10%;
+    left: 42.5%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+            
+    .growshop
+    {position: relative;
     display: block;
     width: 37.5em;
     height: 370px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 37.5em;
     height: 370px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 30rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 5rem;
+    left: 13rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
-    left: 29.4rem;
+    top: 79%;
+    left: 29rem;
     font-size: 22px;
-    color: white; } }
+    color: white;
+    }    }
+    
 
 @media screen and (max-width: 800px) {
-  .Tabaqueria {
-    position: relative;
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 33.33em;
     height: 360px;
-    left: 10%;
+    left: 40.2%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+            
+    .growshop
+    {position: relative;
     display: block;
     width: 33.33em;
     height: 360px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 33.33em;
     height: 360px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+   
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 26rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 5rem;
+    left: 11rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
-    left: 25.4rem;
+    top: 79%;
+    left: 25rem;
     font-size: 22px;
-    color: white; } }
-
+    color: white;
+    }    }
+            
+        
 @media screen and (max-width: 700px) {
-  .Tabaqueria {
-    position: relative;
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 29.16em;
     height: 350px;
-    left: 10%;
+    left: 35%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+    
+    .growshop
+    {position: relative;
     display: block;
     width: 29.16em;
     height: 350px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 29.16em;
     height: 350px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+    
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 22rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 4.2rem;
+    left: 9rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
-    left: 21.2rem;
+    top: 79%;
+    left: 21rem;
     font-size: 22px;
-    color: white; } }
-
+    color: white;
+    }    }
+            
+    
 @media screen and (max-width: 600px) {
-  .Tabaqueria {
-    position: relative;
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 25em;
     height: 340px;
-    left: 10%;
+    left: 31%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+            
+    .growshop
+    {position: relative;
     display: block;
     width: 25em;
     height: 340px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 25em;
     height: 340px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+    
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 18rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3.7rem;
+    left: 7rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
-    left: 17.3rem;
+    top: 79%;
+    left: 17rem;
     font-size: 22px;
-    color: white; } }
-
+    color: white;
+    }    }
+   
+    
 @media screen and (max-width: 500px) {
-  .Tabaqueria {
-    position: relative;
+    .Grid-item1
+    {position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px;
+    }
+    
+    .Tabaqueria
+    {position: relative;
     width: 20.83em;
     height: 330px;
-    left: 10%;
+    left: 56%;
     border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
+    border-bottom-left-radius: 30px;}
+    
+    .growshop
+    {position: relative;
     display: block;
     width: 20.83em;
     height: 330px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop_boostrap {
-    position: relative;
+    border-bottom-right-radius: 30px;}
+    
+    .Coffeeshop
+    {position: relative;
     display: block;
     width: 20.83em;
     height: 330px;
     border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1-B {
+    border-bottom-right-radius: 30px;}
+    
+    #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
     left: 14rem;
     font-size: 22px;
-    color: white; }
-  #h2-2-B {
+    color: white;
+    }
+
+    #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3.7rem;
+    left: 11rem;
     font-size: 22px;
-    color: white; }
-  #h2-3-B {
+    color: white;
+    }
+
+    #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 12%;
-    left: 13.3rem;
+    top: 18rem;
+    left: 13rem;
     font-size: 22px;
-    color: white; } }
+    color: white;}
+}

@@ -85,7 +85,8 @@
     }
     }
     
-    #h2-1{
+    #h2-1, #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -95,21 +96,12 @@
     }
 
     #h2-2{
-    z-index: 1;
+    display: inline;
     position: relative;
-    top: 3rem;
-    left: 6.4rem;
-    font-size: 22px;
-    color: white;
-    }
-
-    #h2-3{
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 42rem;
-    font-size: 22px;
-    color: white;
+    left: 19rem;
+    display: inline;
+    top: -23rem;
+    @extend #h2-1
     }
     
     .growshop
@@ -124,7 +116,7 @@
        {position: relative;
         width: 50em;
         height: 400px;
-        left: 10%;
+        left: 34.5%;
         border-top-left-radius: 30px;
         border-bottom-left-radius: 30px;}
         
@@ -149,7 +141,7 @@
    {position: relative;
     width: 45.83em;
     height: 390px;
-    left: 10%;
+    left: 46%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
 
@@ -171,6 +163,7 @@
     border-bottom-right-radius: 30px;}
 
     #h2-1{
+        display: inline;
         z-index: 1;
         position: relative;
         top: 3rem;
@@ -179,14 +172,16 @@
         color: white;
         }
         #h2-2{
+        display: inline;
         z-index: 1;
         position: relative;
         top: 3rem;
-        left: 3rem;
+        left: 18rem;
         font-size: 22px;
         color: white;
         }
         #h2-3{
+        display: inline;
         z-index: 1;
         position: relative;
         top: 79%;
@@ -208,7 +203,7 @@
     {position: relative;
     width: 41.66em;
     height: 380px;
-    left: 10%;
+    left: 44.5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
     
@@ -227,7 +222,9 @@
     height: 380px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
+    
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -236,14 +233,16 @@
     color: white;
     }
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 16rem;
     font-size: 22px;
     color: white;
     }
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -265,7 +264,7 @@
     {position: relative;
     width: 37.5em;
     height: 370px;
-    left: 10%;
+    left: 42.5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
             
@@ -285,6 +284,7 @@
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -293,14 +293,16 @@
     color: white;
     }
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 13rem;
     font-size: 22px;
     color: white;
     }
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -322,7 +324,7 @@
     {position: relative;
     width: 33.33em;
     height: 360px;
-    left: 10%;
+    left: 40.2%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
             
@@ -341,7 +343,9 @@
     height: 360px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
+   
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -350,14 +354,16 @@
     color: white;
     }
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 11rem;
     font-size: 22px;
     color: white;
     }
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -376,10 +382,10 @@
     }
     
     .Tabaqueria
-           {position: relative;
+    {position: relative;
     width: 29.16em;
     height: 350px;
-    left: 10%;
+    left: 35%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
     
@@ -398,7 +404,9 @@
     height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
+    
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -407,14 +415,16 @@
     color: white;
     }
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 3rem;
+    left: 9rem;
     font-size: 22px;
     color: white;
     }
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -436,7 +446,7 @@
     {position: relative;
     width: 25em;
     height: 340px;
-    left: 10%;
+    left: 31%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
             
@@ -455,7 +465,9 @@
     height: 340px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;}
+    
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -463,15 +475,18 @@
     font-size: 22px;
     color: white;
     }
+
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 7rem;
     font-size: 22px;
     color: white;
     }
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 79%;
@@ -493,7 +508,7 @@
     {position: relative;
     width: 20.83em;
     height: 330px;
-    left: 10%;
+    left: 56%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;}
     
@@ -514,6 +529,7 @@
     border-bottom-right-radius: 30px;}
     
     #h2-1{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
@@ -521,19 +537,23 @@
     font-size: 22px;
     color: white;
     }
+
     #h2-2{
+    display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 2rem;
+    left: 11rem;
     font-size: 22px;
     color: white;
     }
+
     #h2-3{
+    display: inline;
     z-index: 1;
     position: relative;
-    top: 79%;
+    top: 18rem;
     left: 13rem;
     font-size: 22px;
-    color: white;
-    }    }    
+    color: white;}
+}
