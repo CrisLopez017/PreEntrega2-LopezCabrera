@@ -1,0 +1,66 @@
+nav
+   {
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(150, 3, 101);
+    border: 10px;
+    height: 80px;
+    width: 100%;
+
+    ul
+        {float: right;
+        margin-right: 10%; 
+        margin-left: 20%;
+        position: relative;
+        z-index: 10;
+
+        li
+        {display: inline-block;
+        line-height: 70px;
+        margin: 3px;
+
+            a
+            {color: rgb(0, 0, 0);
+            font-size: 20px;
+            margin: 7px;
+            border-radius: 3px;
+
+                a.active, a:hover
+                {background-color: rgb(194, 40, 148);
+                transition: 1s;
+                color: white;
+    }
+   }
+  }
+ }
+}
+
+.Logojelly
+   {width: 80px;
+    height: 80px;
+    position: absolute;
+    z-index: 1;
+    left: 20px;}
+
+hr {
+    position: relative;
+    width: 100%;
+    height: 2px;
+    top: 77px;
+    color: rgb(0, 0, 0);
+    opacity: 1;
+}
+
+.label{
+    display: none;
+    padding-right: 60px;
+    float: right;
+    line-height: 52px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#check {
+    display: none;
+}

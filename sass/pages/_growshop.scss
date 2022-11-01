@@ -1,0 +1,79 @@
+.bodygrow{
+    background-image: url(./Assets/Niidea.avif);}
+
+.flex-container-h1-grow {
+display: flex;
+height: 550px;
+width: 100%;
+background-image: url(./Assets/photogrow.jpg);
+background-size: 85rem 50rem; 
+justify-content: center;
+align-items: center;
+}
+.productos_grow_img1
+{width: 55%;
+height: 150px;
+margin-top: 15px;
+position: relative;
+left: 45%;
+background-color: #ffdf00;
+border: 10px;
+border-style:groove;
+border-color: #ffdf00; 
+border-right: none;
+}
+
+.productos_grow_img2
+{width: 55%;
+height: 150px;
+margin-top: 15px;
+background-color:#bccc80;
+border: 10px;
+border-style: groove;
+border-color:#bccc80; 
+border-left: none;
+}
+
+.img_producto_grow_cogo1 
+{
+display: inline;
+width: 100%;
+height: 150px;
+padding-bottom: 25px;
+padding-right: 10px;
+}
+
+
+.divtext0{
+height: 150px;
+width: 40%;
+border: 10px;
+border-style:double;
+border-color: rgb(131, 126, 126);
+position: relative;
+bottom: 127%;
+left: 135%;
+}
+
+.divtext1 {
+height: 150px;
+width: 40%;
+border: 10px;
+border-style:double;
+border-color: rgb(131, 126, 126);
+position: relative;
+bottom: 9px;
+left: 135%;
+}
+
+.divtext2 {
+height: 150px;
+width: 40%;
+border: 10px;
+border-style:double;
+border-color: rgb(131, 126, 126);
+position: relative;
+bottom: 5px;
+right: 75%;
+
+}

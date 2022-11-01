@@ -1,0 +1,47 @@
+
+ footer{
+        background-color: rgb(0, 0, 0); 
+        color: rgb(0, 0, 0);
+        width: 100%;
+        position: relative;
+        top: 150px;
+    }
+    
+    .Flex-container {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        color: white;
+        font-family: 'Noto Serif', serif;
+        flex-wrap: wrap;
+    }
+    
+    .Column1, .Column2, .Column3{
+        margin-top: 15px;
+    }
+    
+    h3{
+        display: flex;
+        font-size: 18px;
+        font-family: 'Noto Serif', serif;
+        margin-left: -15%;
+    }
+    .Ig{
+        display: inline;
+    }
+    .Igtext{
+        display: inline; 
+        ;
+    }
+    .Fc{
+        display: inline;
+    }
+    .Fctext {
+        display: inline;
+        margin-left: 5px;
+    }
+    
+    .Copytext, .Copy{
+        display: inline-block;
+        left: 300px;
+    }

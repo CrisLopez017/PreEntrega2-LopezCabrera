@@ -1,0 +1,75 @@
+.flex-container-h1-coffee {
+    display: flex;
+    height: 550px;
+    width: 100%;
+    background-image: url(./Assets/weed.jpg);
+    background-size: 85rem 50rem; 
+    justify-content: center;
+    align-items: center;}
+    
+    .productos_coffee_img1
+       {width: 55%;
+        height: 150px;
+        margin-top: 15px;
+        position: relative;
+        left: 45%;
+        background-color: #732487;
+        border: 10px;
+        border-style:groove;
+        border-color: #732487; 
+        border-right: none;
+        }
+    
+    .productos_coffee_img2
+       {width: 55%;
+        height: 150px;
+        margin-top: 15px;
+        background-color:#ffffff;
+        border: 10px;
+        border-style: groove;
+        border-color:#ffffff; 
+        border-left: none;
+    }
+    
+    .productos_coffee_cogos1 
+        {
+        display: inline;
+        width: 100%;
+        height: 150px;
+        padding-bottom: 25px;
+        padding-right: 10px;
+        }
+    
+    .div_text_coffee0{
+        height: 150px;
+        width: 40%;
+        border: 10px;
+        border-style:double;
+        border-color: rgb(131, 126, 126);
+        position: relative;
+        bottom: 127%;
+        left: 135%;
+        color: white;
+    }
+    .div_text_coffee2 {
+        height: 150px;
+        width: 40%;
+        border: 10px;
+        border-style:double;
+        border-color: rgb(131, 126, 126);
+        position: relative;
+        bottom: 9px;
+        left: 135%;
+        color: white;
+    }
+    
+    .div_text_coffee1 {
+        height: 150px;
+        width: 40%;
+        border: 10px;
+        border-style:double;
+        border-color: rgb(131, 126, 126);
+        position: relative;
+        bottom: 5px;
+        right: 75%;
+        color:white}

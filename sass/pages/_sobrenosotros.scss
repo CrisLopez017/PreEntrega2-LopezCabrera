@@ -1,0 +1,64 @@
+.body_sobrenosotros{
+    background-color: white;
+    height: 600px;
+ }
+
+.flex-container-h1-SobreNosotros{
+display: flex;
+height: 550px;
+width: 100%;
+background-image: url(./Assets/Triper.jpg);
+background-size: 85rem 50rem; 
+justify-content: center;
+align-items: center;
+}
+.first-h1-SN{
+display: flex;
+font-size: 5em;
+justify-content: center;
+color: rgb(0, 0, 0);
+animation-name: vanishIn;
+animation-duration: 2.1s;
+animation-delay: 2s;
+animation-iteration-count: 3;
+}
+
+.flex_container_main_Sobrenosotros {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex_item_main_Sobrenosotros {
+    display: block;
+    font-family: 'Noto Serif', serif;
+}
+
+.flex_h1_sobrenosotros{
+position: relative;
+margin-top: 2rem;
+display: inline;
+left: 39%;
+}
+
+.flex_h2_sobrenosotros{
+    display: inline;
+    position: relative;
+    top: 15%;
+    left: 27%;
+}
+
+.flex_p_sobrenosotros{
+    position: relative;
+    top: 5%;
+    margin:3rem;
+}   
+
+.flex_img_sobrenosotros {
+    height: 350px;
+    width: 350px;
+}
+
+#footer-SN{
+position: relative;
+top: 27%;
+}
