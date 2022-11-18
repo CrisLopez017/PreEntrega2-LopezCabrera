@@ -2,7 +2,7 @@
     background-image: url(./Assets/Niidea.avif);}
 
 .flex-container-h1-tobacco {
-display: flex;
+display: inline-flex;
 height: 550px;
 width: 100%;
 background-image: url(./Assets/img-tobacco.jpg);
@@ -11,11 +11,11 @@ justify-content: center;
 align-items: center;}
 
 .productos_tobacco_img1
-{width: 55%;
-height: 150px;
+{width: 50%;
+height: 250px;
 margin-top: 15px;
 position: relative;
-left: 45%;
+left: 50%;
 background-color: #8b4513;
 border: 10px;
 border-style:groove;
@@ -23,8 +23,8 @@ border-color: #8b4513;
 border-right: none;}
 
 .productos_tobacco_img2
-{width: 55%;
-height: 150px;
+{width: 50%;
+height: 250px;
 margin-top: 15px;
 background-color:#561a1c;
 border: 10px;
@@ -32,43 +32,268 @@ border-style: groove;
 border-color:#561a1c; 
 border-left: none;}
 
-.img_tobacco_cogo1 
+.img_tobacco_1, .img_tobacco_2
 {
 display: inline;
 width: 100%;
-height: 150px;
+height: 250px;
 padding-bottom: 25px;
 padding-right: 10px;}
 
 .div_text_tobacco0
 {height: 150px;
-width: 40%;
-border: 10px;
-border-style:double;
-border-color: rgb(131, 126, 126);
+width: 50%;
 position: relative;
 bottom: 127%;
 left: 135%;
 color: white;}
 
-.div_text_tobacco2 
-{height: 150px;
-width: 40%;
-border: 10px;
-border-style:double;
-border-color: rgb(131, 126, 126);
-position: relative;
-bottom: 9px;
-left: 135%;
-color: white;}
-
 .div_text_tobacco1 
 {height: 150px;
-width: 40%;
-border: 10px;
-border-style:double;
-border-color: rgb(131, 126, 126);
+width: 50%;
 position: relative;
 bottom: 5px;
 right: 75%;
+bottom: 14rem;
 color:white}
+
+.div_text_tobacco2 
+{height: 150px;
+width: 50%;
+position: relative;
+bottom: 148px;
+left: 135%;
+color: white;}
+
+#h3-0-tobacco{
+font-size: 1.7em;
+font-family: 'Noto Serif';
+position: relative;
+left: -25%;
+top: 83%;
+color: black;
+}
+    
+#p-0-tobacco
+{
+font-size: 1em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+top: 39%;
+left: 15%;
+}
+
+#h3-1-tobacco 
+{
+font-size: 1.7em;
+font-family: 'Noto Serif';
+position: relative;
+left: 106%;
+top: 41%;
+color: black;
+} 
+
+#p-1-tobacco
+{
+font-size: 1em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+top: -25%;
+left: -36%;
+}
+
+#h3-2-tobacco{
+position: relative;
+top: -5%;
+left: -37%;
+font-size: 1.7em;
+font-family: 'Noto Serif';
+z-index: 1;
+color: black;
+}
+    
+#p-2-tobacco
+{
+font-size: 1em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+top: -60%;
+left: 15%;
+}
+
+@media screen and (max-width: 900px)
+{
+#h3-0-tobacco{
+font-size: 1.3em;
+font-family: 'Noto Serif';
+position: relative;
+left: 5.1rem;
+top: 21%;
+}
+
+#p-0-tobacco
+{
+font-size: 0.9em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+top: 30%;
+left: -14%;
+}
+
+#h3-1-tobacco 
+{
+font-size: 1.3em;
+font-family: 'Noto Serif';
+position: relative;
+left: 30%;
+top: -16%;
+color: black;
+} 
+
+#p-1-tobacco
+{
+font-size: 0.9em;
+font-family: 'Noto Serif';
+color: #8b4513;
+text-align: center;
+position: relative;
+top: -11%;
+left: -18%;
+}
+
+#h3-2-tobacco{
+position: relative;
+top: -62%;
+left: 4.1rem;
+font-size: 1.2em;
+font-family: 'Noto Serif';
+position: relative;
+}
+
+#p-2-tobacco{
+font-size: 0.9em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+left: -14%;    
+top: -5rem;
+}
+}
+
+@media screen and (max-width: 750px)
+{
+#h3-0-tobacco {
+font-size: 1.2em;
+font-family: 'Noto Serif';
+position: relative;
+left: 4.1rem;
+top: 21%;
+}
+
+#h3-1-tobacco 
+{
+font-size: 1.3em;
+font-family: 'Noto Serif';
+position: relative;
+left: 29%;
+top: -16%;
+color: black;
+} 
+
+#h3-2-tobacco {
+font-size: 1.2em;
+font-family: 'Noto Serif';
+position: relative;
+left: 3.0999999999999996rem;
+top: -69%;
+}
+
+#p-1-tobacco
+{
+font-size: 0.8em;
+font-family: 'Noto Serif';
+color: #8b4513;
+text-align: center;
+position: relative;
+top: -11%;
+left: -17%;
+}
+
+#p-2-tobacco{
+font-size: 0.8em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+left: -14%;   
+top: -6rem; 
+}
+}
+
+@media screen and (max-width: 600px)
+{
+#h3-0-tobacco {
+font-size: 1.2em;
+font-family: 'Noto Serif';
+position: relative;
+left: 29%;
+top: 19%;
+}
+    
+#p-0-tobacco
+{
+font-size: 0.75em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+top: 31%;
+}
+
+#h3-1-tobacco 
+{
+font-size: 1.1em;
+font-family: 'Noto Serif';
+position: relative;
+left: 29%;
+top: -16%;
+color: black;
+} 
+
+#p-1-tobacco
+{
+font-size: 0.7em;
+font-family: 'Noto Serif';
+color: #8b4513;
+text-align: center;
+position: relative;
+top: -11%;
+left: -14%;
+}
+
+#h3-2-tobacco {
+font-size: 1.2em;
+font-family: 'Noto Serif';
+position: relative;
+left: 2.1rem;
+top: -69%;
+}
+    
+#p-2-tobacco{
+font-size: 0.7em;
+font-family: 'Noto Serif';
+color:#8b4513;
+text-align: center;
+position: relative;
+left: -12%;    
+}
+}

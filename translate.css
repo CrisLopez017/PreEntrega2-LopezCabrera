@@ -5,350 +5,6 @@
   list-style: none;
   box-sizing: border-box; }
 
-@media screen and (max-width: 1100px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 45.83em;
-    height: 390px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 45.83em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    top: 70%;
-    display: block;
-    width: 41.66em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 38rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 3rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 34rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 1000px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 41.66em;
-    height: 380px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 34rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 3rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 34rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 900px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 37.5em;
-    height: 370px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 30rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 3rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 29rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 800px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 33.33em;
-    height: 360px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 26rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 3rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 25rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 700px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 29.16em;
-    height: 350px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 22rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 3rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 21rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 600px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 25em;
-    height: 340px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 18rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 2rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 17rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 500px) {
-  .Grid-item1 {
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    position: relative; }
-  .Tabaqueria {
-    position: relative;
-    width: 20.83em;
-    height: 330px;
-    left: 10%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 14rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 2rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 13rem;
-    font-size: 22px;
-    color: white; } }
-
 @keyframes vanishIn {
   0% {
     opacity: 0;
@@ -383,10 +39,11 @@ nav {
         font-size: 20px;
         margin: 7px;
         border-radius: 3px; }
-        nav ul li a a.active, nav ul li a a:hover {
-          background-color: #c22894;
-          transition: 1s;
-          color: white; }
+
+nav ul li a.active, li a:hover {
+  background-color: #ee7391;
+  transition: 1s;
+  color: #e7e7e7; }
 
 .Logojelly {
   width: 80px;
@@ -414,6 +71,77 @@ hr {
 
 #check {
   display: none; }
+
+@media screen and (max-width: 800px) {
+  nav {
+    background-color: white;
+    border-style: solid;
+    border-color: #960365;
+    border: 10px;
+    height: 80px;
+    width: 100%; }
+    nav ul {
+      float: right;
+      margin-right: 10%;
+      margin-left: 20%;
+      position: relative;
+      z-index: 10; }
+      nav ul li {
+        display: inline-block;
+        line-height: 70px;
+        margin: 3px; }
+        nav ul li a {
+          color: black;
+          font-size: 17.4px;
+          margin: 4px;
+          border-radius: 3px; } }
+
+@media screen and (max-width: 650px) {
+  nav {
+    background-color: white;
+    border-style: solid;
+    border-color: #960365;
+    border: 10px;
+    height: 80px;
+    width: 100%; }
+    nav ul {
+      float: right;
+      margin-right: 10%;
+      margin-left: 20%;
+      position: relative;
+      z-index: 10; }
+      nav ul li {
+        display: inline-block;
+        line-height: 70px;
+        margin: 3px; }
+        nav ul li a {
+          color: black;
+          font-size: 15px;
+          margin: 1.5px;
+          border-radius: 3px; } }
+
+@media screen and (max-width: 550px) {
+  nav {
+    background-color: white;
+    border-style: solid;
+    border-color: #960365;
+    border: 10px;
+    height: 80px;
+    width: 100%; }
+    nav ul {
+      float: right;
+      margin-right: 10%;
+      margin-left: 20%;
+      position: relative;
+      z-index: 10; }
+      nav ul li {
+        display: inline-block;
+        line-height: 70px;
+        margin: 3px; }
+        nav ul li a {
+          color: black;
+          font-size: 12.2px;
+          border-radius: 3px; } }
 
 footer {
   background-color: black;
@@ -466,11 +194,11 @@ h3 {
   align-items: center; }
 
 .productos_coffee_img1 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   position: relative;
-  left: 45%;
+  left: 50%;
   background-color: #732487;
   border: 10px;
   border-style: groove;
@@ -478,8 +206,8 @@ h3 {
   border-right: none; }
 
 .productos_coffee_img2 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   background-color: #ffffff;
   border: 10px;
@@ -490,48 +218,242 @@ h3 {
 .productos_coffee_cogos1 {
   display: inline;
   width: 100%;
-  height: 150px;
+  height: 250px;
   padding-bottom: 25px;
   padding-right: 10px; }
 
 .div_text_coffee0 {
-  height: 150px;
+  height: 250px;
   width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
   position: relative;
-  bottom: 127%;
-  left: 135%;
+  bottom: 115%;
+  left: 139%;
   color: white; }
 
 .div_text_coffee2 {
-  height: 150px;
+  height: 250px;
   width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
-  position: relative;
-  bottom: 9px;
-  left: 135%;
+  bottom: 264px;
+  left: 28rem;
   color: white; }
 
 .div_text_coffee1 {
-  height: 150px;
+  height: 250px;
   width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
   position: relative;
-  bottom: 5px;
-  right: 75%;
+  bottom: 264px;
+  right: 76%;
   color: white; }
+
+#h3-0-coffee {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
+  position: relative;
+  left: -56%;
+  top: 38%;
+  color: black; }
+
+#p-0-coffee {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #bccc80;
+  text-align: center;
+  position: relative;
+  top: 4%;
+  left: 35%;
+  color: #c7c7c7; }
+
+#h3-1-coffee {
+  font-size: 1.4em;
+  font-family: 'Noto Serif';
+  position: relative;
+  left: 92%;
+  top: 34%;
+  color: black; }
+
+#p-1-coffee {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #bccc80;
+  text-align: center;
+  position: relative;
+  top: -7%;
+  right: 31%;
+  color: #732487; }
+
+#h3-2-coffee {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
+  position: relative;
+  left: 281%;
+  top: -61%;
+  color: black; }
+
+#p-2-coffee {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #bccc80;
+  text-align: center;
+  position: relative;
+  top: -96%;
+  left: 376%;
+  color: #c7c7c7; }
+
+@media screen and (max-width: 900px) {
+  #h3-0-coffee {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 20%;
+    top: 3%;
+    color: black; }
+  #p-0-coffee {
+    font-size: .9em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: 1%;
+    color: #c7c7c7; }
+  #h3-1-coffee {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 20%;
+    top: 3%;
+    color: black; }
+  #p-1-coffee {
+    font-size: .8em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: -14%;
+    color: #732487; }
+  #h3-2-coffee {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 357%;
+    top: -100%;
+    color: black; }
+  #p-2-coffee {
+    font-size: .9em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: -96%;
+    left: 344%;
+    color: #c7c7c7; } }
+
+@media screen and (max-width: 750px) {
+  #h3-0-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 20%;
+    top: 3%;
+    color: black; }
+  #p-0-coffee {
+    font-size: .8em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: 1%;
+    color: #c7c7c7; }
+  #h3-1-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 15%;
+    top: 3%;
+    color: black; }
+  #p-1-coffee {
+    font-size: .7em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: -14%;
+    color: #732487; }
+  #h3-2-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 357%;
+    top: -100%;
+    color: black; }
+  #p-2-coffee {
+    font-size: .8em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: -96%;
+    left: 344%;
+    color: #c7c7c7; } }
+
+@media screen and (max-width: 600px) {
+  #h3-0-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 20%;
+    top: 3%;
+    color: black; }
+  #p-0-coffee {
+    font-size: .7em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: 1%;
+    color: #c7c7c7; }
+  #h3-1-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 15%;
+    top: 3%;
+    color: black; }
+  #p-1-coffee {
+    font-size: .7em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: -14%;
+    color: #732487; }
+  #h3-2-coffee {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 357%;
+    top: -100%;
+    color: black; }
+  #p-2-coffee {
+    font-size: .7em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: -96%;
+    left: 344%;
+    color: #c7c7c7; } }
 
 .bodygrow {
   background-image: url(./Assets/Niidea.avif); }
 
 .flex-container-h1-grow {
-  display: flex;
+  display: inline-flex;
   height: 550px;
   width: 100%;
   background-image: url(./Assets/photogrow.jpg);
@@ -540,11 +462,11 @@ h3 {
   align-items: center; }
 
 .productos_grow_img1 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   position: relative;
-  left: 45%;
+  left: 50%;
   background-color: #ffdf00;
   border: 10px;
   border-style: groove;
@@ -552,8 +474,8 @@ h3 {
   border-right: none; }
 
 .productos_grow_img2 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   background-color: #bccc80;
   border: 10px;
@@ -564,39 +486,196 @@ h3 {
 .img_producto_grow_cogo1 {
   display: inline;
   width: 100%;
-  height: 150px;
+  height: 250px;
   padding-bottom: 25px;
   padding-right: 10px; }
 
 .divtext0 {
-  height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
+  height: 250px;
+  width: 50%;
   position: relative;
-  bottom: 127%;
+  bottom: 116%;
   left: 135%; }
 
 .divtext1 {
-  height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
+  height: 250px;
+  width: 50%;
   position: relative;
-  bottom: 9px;
+  bottom: 164px;
   left: 135%; }
 
 .divtext2 {
-  height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
+  height: 250px;
+  width: 50%;
+  position: absolute;
+  bottom: -10px;
+  right: 143%; }
+
+#h3-0-growshop {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
   position: relative;
-  bottom: 5px;
-  right: 75%; }
+  left: -45%;
+  top: 34%; }
+
+#p-0-growshop {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #bccc80;
+  text-align: center;
+  position: relative;
+  top: 10%;
+  left: 15%; }
+
+#h3-1-growshop {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
+  position: relative;
+  left: 117%;
+  top: 41%;
+  color: black; }
+
+#p-1-growshop {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #ffdf00;
+  text-align: center;
+  position: relative;
+  top: 15%; }
+
+.h3-2-growshop {
+  position: relative;
+  top: -5%;
+  left: -44%;
+  font-size: 1.7em;
+  font-family: 'Noto Serif'; }
+
+.p-2-growshop {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #bccc80;
+  text-align: center;
+  position: relative;
+  top: -35%;
+  left: 15%; }
+
+@media screen and (max-width: 900px) {
+  #h3-0-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 3.1rem;
+    top: 2%; }
+  #p-0-growshop {
+    font-size: 0.9em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 5%;
+    left: -14%; }
+  #h3-1-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 64%;
+    top: 7%;
+    color: black; }
+  #p-1-growshop {
+    font-size: .9em;
+    font-family: 'Noto Serif';
+    color: #ffdf00;
+    text-align: center;
+    position: relative;
+    top: 11%;
+    left: 27%; }
+  .h3-2-growshop {
+    position: relative;
+    top: -37%;
+    left: 3.1rem;
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative; }
+  .p-2-growshop {
+    font-size: 0.9em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    left: -14%; } }
+
+@media screen and (max-width: 750px) {
+  #h3-0-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 2.1rem;
+    top: 2%; }
+  #h3-1-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 57%;
+    top: 7%;
+    color: black; }
+  #p-1-growshop {
+    color: #ffdf00; }
+  .h3-2-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 2.1rem;
+    top: -37%; }
+  .p-2-growshop {
+    font-size: 0.8em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    left: -14%; } }
+
+@media screen and (max-width: 600px) {
+  #h3-0-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 13%;
+    top: 2%; }
+  #p-0-growshop {
+    font-size: 0.8em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    top: 5%; }
+  #h3-1-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 50%;
+    top: 7%;
+    color: black; }
+  #p-1-growshop {
+    font-size: .7em;
+    font-family: 'Noto Serif';
+    color: #ffdf00;
+    text-align: center;
+    position: relative;
+    top: 11%;
+    left: 27%; }
+  .h3-2-growshop {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 1.1rem;
+    top: -37%; }
+  .p-2-growshop {
+    font-size: 0.7em;
+    font-family: 'Noto Serif';
+    color: #bccc80;
+    text-align: center;
+    position: relative;
+    left: -14%; } }
 
 .body_index {
   background-color: #ffffff; }
@@ -646,7 +725,7 @@ h3 {
   position: relative;
   width: 250px;
   height: 250px;
-  left: 55%;
+  left: 48%;
   bottom: 250px; }
 
 .Grid-container {
@@ -673,7 +752,7 @@ h3 {
     grid-column: 2/4;
     grid-row: 2/3; }
 
-#h2-1, #h2-2, #h2-3 {
+#h2-1, #h2-3 {
   display: inline;
   z-index: 1;
   position: relative;
@@ -685,9 +764,11 @@ h3 {
 #h2-2 {
   display: inline;
   position: relative;
-  left: 19rem;
+  left: 36rem;
   display: inline;
-  top: -23rem; }
+  top: -22rem;
+  z-index: 1;
+  color: white; }
 
 .growshop {
   position: relative;
@@ -701,7 +782,7 @@ h3 {
   position: relative;
   width: 50em;
   height: 400px;
-  left: 34.5%;
+  left: 34%;
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px; }
 
@@ -716,37 +797,37 @@ h3 {
 @media screen and (max-width: 1100px) {
   .Grid-item1 {
     position: relative;
-    width: 55%;
+    width: 40rem;
     height: 150px;
     margin-top: 15px; }
-  .Tabaqueria {
-    position: relative;
-    width: 45.83em;
-    height: 390px;
-    left: 46%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
   .growshop {
     position: relative;
     display: block;
-    width: 45.83em;
+    width: 42rem;
     height: 390px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; }
+  .Tabaqueria {
+    position: relative;
+    width: 44rem;
+    height: 390px;
+    left: -5%;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
   .Coffeeshop {
     position: relative;
     top: 70%;
     display: block;
-    width: 41.66em;
+    width: 42rem;
     height: 390px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
+  #h2-1 {
     display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 38rem;
+    left: 33rem;
     font-size: 22px;
     color: white; }
   #h2-2 {
@@ -754,7 +835,7 @@ h3 {
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 18rem;
+    left: 34rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
@@ -762,7 +843,7 @@ h3 {
     z-index: 1;
     position: relative;
     top: 79%;
-    left: 34rem;
+    left: 33rem;
     font-size: 22px;
     color: white; } }
 
@@ -772,80 +853,28 @@ h3 {
     width: 55%;
     height: 150px;
     margin-top: 15px; }
-  .Tabaqueria {
-    position: relative;
-    width: 41.66em;
-    height: 380px;
-    left: 44.5%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
   .growshop {
     position: relative;
     display: block;
-    width: 41.66em;
+    width: 37.5rem;
     height: 380px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 34rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 16rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 34rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 900px) {
-  .Grid-item1 {
-    position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px; }
   .Tabaqueria {
     position: relative;
-    width: 37.5em;
-    height: 370px;
-    left: 42.5%;
+    width: 39rem;
+    height: 380px;
+    left: -5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
   .Coffeeshop {
     position: relative;
     display: block;
-    width: 37.5em;
-    height: 370px;
+    width: 37.5rem;
+    height: 380px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
+  #h2-1 {
     display: inline;
     z-index: 1;
     position: relative;
@@ -858,7 +887,7 @@ h3 {
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 13rem;
+    left: 31rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
@@ -870,39 +899,39 @@ h3 {
     font-size: 22px;
     color: white; } }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .Grid-item1 {
     position: relative;
     width: 55%;
     height: 150px;
     margin-top: 15px; }
-  .Tabaqueria {
-    position: relative;
-    width: 33.33em;
-    height: 360px;
-    left: 40.2%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
   .growshop {
     position: relative;
     display: block;
-    width: 33.33em;
-    height: 360px;
+    width: 35.5rem;
+    height: 370px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
+  .Tabaqueria {
+    position: relative;
+    width: 37rem;
+    height: 370px;
+    left: -5%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px; }
   .Coffeeshop {
     position: relative;
     display: block;
-    width: 33.33em;
-    height: 360px;
+    width: 35.5em;
+    height: 370px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
+  #h2-1 {
     display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 26rem;
+    left: 28rem;
     font-size: 22px;
     color: white; }
   #h2-2 {
@@ -910,7 +939,7 @@ h3 {
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 11rem;
+    left: 29rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
@@ -918,7 +947,59 @@ h3 {
     z-index: 1;
     position: relative;
     top: 79%;
-    left: 25rem;
+    left: 27rem;
+    font-size: 22px;
+    color: white; } }
+
+@media screen and (max-width: 800px) {
+  .Grid-item1 {
+    position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px; }
+  .growshop {
+    position: relative;
+    display: block;
+    width: 28rem;
+    height: 360px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; }
+  .Tabaqueria {
+    position: relative;
+    width: 29.5rem;
+    height: 360px;
+    left: -5%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px; }
+  .Coffeeshop {
+    position: relative;
+    display: block;
+    width: 28rem;
+    height: 360px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; }
+  #h2-1 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 20rem;
+    font-size: 22px;
+    color: white; }
+  #h2-2 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 21rem;
+    font-size: 22px;
+    color: white; }
+  #h2-3 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 79%;
+    left: 19rem;
     font-size: 22px;
     color: white; } }
 
@@ -928,80 +1009,28 @@ h3 {
     width: 55%;
     height: 150px;
     margin-top: 15px; }
-  .Tabaqueria {
-    position: relative;
-    width: 29.16em;
-    height: 350px;
-    left: 35%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
   .growshop {
     position: relative;
     display: block;
-    width: 29.16em;
+    width: 25rem;
     height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  .Coffeeshop {
-    position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 22rem;
-    font-size: 22px;
-    color: white; }
-  #h2-2 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 9rem;
-    font-size: 22px;
-    color: white; }
-  #h2-3 {
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 21rem;
-    font-size: 22px;
-    color: white; } }
-
-@media screen and (max-width: 600px) {
-  .Grid-item1 {
-    position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px; }
   .Tabaqueria {
     position: relative;
-    width: 25em;
-    height: 340px;
-    left: 31%;
+    width: 26rem;
+    height: 350px;
+    left: -5%;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px; }
-  .growshop {
-    position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px; }
   .Coffeeshop {
     position: relative;
     display: block;
-    width: 25em;
-    height: 340px;
+    width: 25rem;
+    height: 350px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
+  #h2-1 {
     display: inline;
     z-index: 1;
     position: relative;
@@ -1014,7 +1043,7 @@ h3 {
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 7rem;
+    left: 19rem;
     font-size: 22px;
     color: white; }
   #h2-3 {
@@ -1026,39 +1055,91 @@ h3 {
     font-size: 22px;
     color: white; } }
 
+@media screen and (max-width: 600px) {
+  .Grid-item1 {
+    position: relative;
+    width: 55%;
+    height: 150px;
+    margin-top: 15px; }
+  .growshop {
+    position: relative;
+    display: block;
+    width: 21rem;
+    height: 340px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; }
+  .Tabaqueria {
+    position: relative;
+    width: 22rem;
+    height: 340px;
+    left: -5%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px; }
+  .Coffeeshop {
+    position: relative;
+    display: block;
+    width: 21rem;
+    height: 340px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; }
+  #h2-1 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 14rem;
+    font-size: 22px;
+    color: white; }
+  #h2-2 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    left: 15rem;
+    font-size: 22px;
+    color: white; }
+  #h2-3 {
+    display: inline;
+    z-index: 1;
+    position: relative;
+    top: 79%;
+    left: 13rem;
+    font-size: 22px;
+    color: white; } }
+
 @media screen and (max-width: 500px) {
   .Grid-item1 {
     position: relative;
     width: 55%;
     height: 150px;
     margin-top: 15px; }
-  .Tabaqueria {
-    position: relative;
-    width: 20.83em;
-    height: 330px;
-    left: 56%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px; }
   .growshop {
     position: relative;
     display: block;
-    width: 20.83em;
+    width: 17.7rem;
     height: 330px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
+  .Tabaqueria {
+    position: relative;
+    width: 19rem;
+    height: 330px;
+    left: -9%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px; }
   .Coffeeshop {
     position: relative;
     display: block;
-    width: 20.83em;
+    width: 17.7rem;
     height: 330px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px; }
-  #h2-1, #h2-2 {
+  #h2-1 {
     display: inline;
     z-index: 1;
     position: relative;
     top: 3rem;
-    left: 14rem;
+    left: 10rem;
     font-size: 22px;
     color: white; }
   #h2-2 {
@@ -1073,8 +1154,8 @@ h3 {
     display: inline;
     z-index: 1;
     position: relative;
-    top: 18rem;
-    left: 13rem;
+    top: 18.3rem;
+    left: 9rem;
     font-size: 22px;
     color: white; } }
 
@@ -1138,7 +1219,7 @@ h3 {
   background-image: url(./Assets/Niidea.avif); }
 
 .flex-container-h1-tobacco {
-  display: flex;
+  display: inline-flex;
   height: 550px;
   width: 100%;
   background-image: url(./Assets/img-tobacco.jpg);
@@ -1147,11 +1228,11 @@ h3 {
   align-items: center; }
 
 .productos_tobacco_img1 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   position: relative;
-  left: 45%;
+  left: 50%;
   background-color: #8b4513;
   border: 10px;
   border-style: groove;
@@ -1159,8 +1240,8 @@ h3 {
   border-right: none; }
 
 .productos_tobacco_img2 {
-  width: 55%;
-  height: 150px;
+  width: 50%;
+  height: 250px;
   margin-top: 15px;
   background-color: #561a1c;
   border: 10px;
@@ -1168,530 +1249,212 @@ h3 {
   border-color: #561a1c;
   border-left: none; }
 
-.img_tobacco_cogo1 {
+.img_tobacco_1, .img_tobacco_2 {
   display: inline;
   width: 100%;
-  height: 150px;
+  height: 250px;
   padding-bottom: 25px;
   padding-right: 10px; }
 
 .div_text_tobacco0 {
   height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
+  width: 50%;
   position: relative;
   bottom: 127%;
   left: 135%;
   color: white; }
 
-.div_text_tobacco2 {
-  height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
-  position: relative;
-  bottom: 9px;
-  left: 135%;
-  color: white; }
-
 .div_text_tobacco1 {
   height: 150px;
-  width: 40%;
-  border: 10px;
-  border-style: double;
-  border-color: #837e7e;
+  width: 50%;
   position: relative;
   bottom: 5px;
   right: 75%;
+  bottom: 14rem;
   color: white; }
 
-.section-grid-boostrap {
-  background-image: url(./Assets/Niidea.avif);
-  height: 1700px; }
-
-.Coffeeshop_boostrap {
+.div_text_tobacco2 {
+  height: 150px;
+  width: 50%;
   position: relative;
-  display: block;
-  width: 50em;
-  height: 400px;
-  border-top-right-radius: 30px;
-  border-bottom-right-radius: 30px; }
+  bottom: 148px;
+  left: 135%;
+  color: white; }
 
-.col-9 {
-  display: relative;
-  height: 400px;
-  width: 700px; }
-
-#articulo-grid-medio {
+#h3-0-tobacco {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
   position: relative;
-  right: -30%;
-  margin-bottom: 15px;
-  border-radius: 15px; }
+  left: -25%;
+  top: 83%;
+  color: black; }
 
-#articulo-grid-start1 {
+#p-0-tobacco {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #8b4513;
+  text-align: center;
   position: relative;
-  left: -10%;
-  margin-bottom: 15px;
-  border-radius: 15px; }
+  top: 39%;
+  left: 15%; }
 
-#articulo-grid-start2 {
+#h3-1-tobacco {
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
   position: relative;
-  left: -10%;
-  margin-bottom: 15px;
-  border-radius: 15px; }
+  left: 106%;
+  top: 41%;
+  color: black; }
 
-#h2-1-B {
+#p-1-tobacco {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #8b4513;
+  text-align: center;
+  position: relative;
+  top: -25%;
+  left: -36%; }
+
+#h3-2-tobacco {
+  position: relative;
+  top: -5%;
+  left: -37%;
+  font-size: 1.7em;
+  font-family: 'Noto Serif';
   z-index: 1;
+  color: black; }
+
+#p-2-tobacco {
+  font-size: 1em;
+  font-family: 'Noto Serif';
+  color: #8b4513;
+  text-align: center;
   position: relative;
-  top: 3rem;
-  left: 42rem;
-  font-size: 22px;
-  color: white; }
+  top: -60%;
+  left: 15%; }
 
-#h2-2-B {
-  z-index: 1;
-  position: relative;
-  top: 3rem;
-  left: 6.4rem;
-  font-size: 22px;
-  color: white; }
-
-#h2-3-B {
-  z-index: 1;
-  position: relative;
-  top: 3rem;
-  left: 42rem;
-  font-size: 22px;
-  color: white; }
-
-  @media screen and (max-width: 1100px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-
-    .Tabaqueria
-   {position: relative;
-    width: 45.83em;
-    height: 390px;
-    left: 46%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-
-    .growshop
-   {position: relative;
-    display: block;
-    width: 45.83em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-
-    .Coffeeshop
-   {position: relative;
-    top: 70%;
-    display: block;
-    width: 41.66em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-
-    #h2-1{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 3rem;
-        left: 38rem;
-        font-size: 22px;
-        color: white;
-        }
-        #h2-2{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 3rem;
-        left: 18rem;
-        font-size: 22px;
-        color: white;
-        }
-        #h2-3{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 79%;
-        left: 34rem;
-        font-size: 22px;
-        color: white;
-        }
-   }
-
-  @media screen and (max-width: 1000px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 41.66em;
-    height: 380px;
-    left: 44.5%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 34rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 16rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 34rem;
-    font-size: 22px;
-    color: white;
-    }
-    }
-    
 @media screen and (max-width: 900px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 37.5em;
-    height: 370px;
-    left: 42.5%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-            
-    .growshop
-    {position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    #h2-1{
-    display: inline;
-    z-index: 1;
+  #h3-0-tobacco {
+    font-size: 1.3em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 3rem;
-    left: 30rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
+    left: 5.1rem;
+    top: 21%; }
+  #p-0-tobacco {
+    font-size: 0.9em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 3rem;
-    left: 13rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
+    top: 30%;
+    left: -14%; }
+  #h3-1-tobacco {
+    font-size: 1.3em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 79%;
-    left: 29rem;
-    font-size: 22px;
-    color: white;
-    }    }
-    
+    left: 30%;
+    top: -16%;
+    color: black; }
+  #p-1-tobacco {
+    font-size: 0.9em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
+    position: relative;
+    top: -11%;
+    left: -18%; }
+  #h3-2-tobacco {
+    position: relative;
+    top: -62%;
+    left: 4.1rem;
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
+    position: relative; }
+  #p-2-tobacco {
+    font-size: 0.9em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
+    position: relative;
+    left: -14%;
+    top: -5rem; } }
 
-@media screen and (max-width: 800px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 33.33em;
-    height: 360px;
-    left: 40.2%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-            
-    .growshop
-    {position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-   
-    #h2-1{
-    display: inline;
-    z-index: 1;
+@media screen and (max-width: 750px) {
+  #h3-0-tobacco {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 3rem;
-    left: 26rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
+    left: 4.1rem;
+    top: 21%; }
+  #h3-1-tobacco {
+    font-size: 1.3em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 3rem;
-    left: 11rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
+    left: 29%;
+    top: -16%;
+    color: black; }
+  #h3-2-tobacco {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 79%;
-    left: 25rem;
-    font-size: 22px;
-    color: white;
-    }    }
-            
-        
-@media screen and (max-width: 700px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 29.16em;
-    height: 350px;
-    left: 35%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
+    left: 3.0999999999999996rem;
+    top: -69%; }
+  #p-1-tobacco {
+    font-size: 0.8em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 3rem;
-    left: 22rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
+    top: -11%;
+    left: -17%; }
+  #p-2-tobacco {
+    font-size: 0.8em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 3rem;
-    left: 9rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 21rem;
-    font-size: 22px;
-    color: white;
-    }    }
-            
-    
+    left: -14%;
+    top: -6rem; } }
+
 @media screen and (max-width: 600px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 25em;
-    height: 340px;
-    left: 31%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-            
-    .growshop
-    {position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
+  #h3-0-tobacco {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 3rem;
-    left: 18rem;
-    font-size: 22px;
-    color: white;
-    }
-
-    #h2-2{
-    display: inline;
-    z-index: 1;
+    left: 29%;
+    top: 19%; }
+  #p-0-tobacco {
+    font-size: 0.75em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 3rem;
-    left: 7rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
+    top: 31%; }
+  #h3-1-tobacco {
+    font-size: 1.1em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 79%;
-    left: 17rem;
-    font-size: 22px;
-    color: white;
-    }    }
-   
-    
-@media screen and (max-width: 500px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 20.83em;
-    height: 330px;
-    left: 56%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
+    left: 29%;
+    top: -16%;
+    color: black; }
+  #p-1-tobacco {
+    font-size: 0.7em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 3rem;
-    left: 14rem;
-    font-size: 22px;
-    color: white;
-    }
-
-    #h2-2{
-    display: inline;
-    z-index: 1;
+    top: -11%;
+    left: -14%; }
+  #h3-2-tobacco {
+    font-size: 1.2em;
+    font-family: 'Noto Serif';
     position: relative;
-    top: 3rem;
-    left: 11rem;
-    font-size: 22px;
-    color: white;
-    }
-
-    #h2-3{
-    display: inline;
-    z-index: 1;
+    left: 2.1rem;
+    top: -69%; }
+  #p-2-tobacco {
+    font-size: 0.7em;
+    font-family: 'Noto Serif';
+    color: #8b4513;
+    text-align: center;
     position: relative;
-    top: 18rem;
-    left: 13rem;
-    font-size: 22px;
-    color: white;}
-}
+    left: -12%; } }

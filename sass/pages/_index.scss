@@ -51,7 +51,7 @@
         position: relative;
         width: 250px;
         height: 250px;
-        left: 55%;
+        left: 48%;
         bottom: 250px;}
     
     .Grid-container{
@@ -98,10 +98,11 @@
     #h2-2{
     display: inline;
     position: relative;
-    left: 19rem;
+    left: 36rem;
     display: inline;
-    top: -23rem;
-    @extend #h2-1
+    top: -22rem;
+    z-index: 1;
+    color: white;
     }
     
     .growshop
@@ -116,7 +117,7 @@
        {position: relative;
         width: 50em;
         height: 400px;
-        left: 34.5%;
+        left: 34%;
         border-top-left-radius: 30px;
         border-bottom-left-radius: 30px;}
         
@@ -129,431 +130,432 @@
         border-bottom-right-radius: 30px;}
 
        
-@media screen and (max-width: 1100px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
+        @media screen and (max-width: 1100px) {
+            .Grid-item1
+            {position: relative;
+            width: 40rem;
+            height: 150px;
+            margin-top: 15px;
+            }
 
-    .Tabaqueria
-   {position: relative;
-    width: 45.83em;
-    height: 390px;
-    left: 46%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
+           .growshop
+           {position: relative;
+            display: block;
+            width: 42rem;
+            height: 390px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+        
+            .Tabaqueria
+           {position: relative;
+            width: 44rem;
+            height: 390px;
+            left: -5%;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+        
+            .Coffeeshop
+           {position: relative;
+            top: 70%;
+            display: block;
+            width: 42rem;
+            height: 390px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+        
+            #h2-1{
+                display: inline;
+                z-index: 1;
+                position: relative;
+                top: 3rem;
+                left: 33rem;
+                font-size: 22px;
+                color: white;
+                }
+                #h2-2{
+                display: inline;
+                z-index: 1;
+                position: relative;
+                top: 3rem;
+                left: 34rem;
+                font-size: 22px;
+                color: white;
+                }
+                #h2-3{
+                display: inline;
+                z-index: 1;
+                position: relative;
+                top: 79%;
+                left: 33rem;
+                font-size: 22px;
+                color: white;
+                }
+           }
+        
+          @media screen and (max-width: 1000px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
 
-    .growshop
-   {position: relative;
-    display: block;
-    width: 45.83em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
+            .growshop
+            {position: relative;
+            display: block;
+            width: 37.5rem;
+            height: 380px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
 
-    .Coffeeshop
-   {position: relative;
-    top: 70%;
-    display: block;
-    width: 41.66em;
-    height: 390px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-
-    #h2-1{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 3rem;
-        left: 38rem;
-        font-size: 22px;
-        color: white;
-        }
-        #h2-2{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 3rem;
-        left: 18rem;
-        font-size: 22px;
-        color: white;
-        }
-        #h2-3{
-        display: inline;
-        z-index: 1;
-        position: relative;
-        top: 79%;
-        left: 34rem;
-        font-size: 22px;
-        color: white;
-        }
-   }
-
-  @media screen and (max-width: 1000px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 41.66em;
-    height: 380px;
-    left: 44.5%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 41.66em;
-    height: 380px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 34rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 16rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 34rem;
-    font-size: 22px;
-    color: white;
-    }
-    }
-    
-@media screen and (max-width: 900px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 37.5em;
-    height: 370px;
-    left: 42.5%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
+            .Tabaqueria
+            {position: relative;
+            width: 39rem;
+            height: 380px;
+            left: -5%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
             
-    .growshop
-    {position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 37.5em;
-    height: 370px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 30rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 13rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 29rem;
-    font-size: 22px;
-    color: white;
-    }    }
-    
-
-@media screen and (max-width: 800px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 33.33em;
-    height: 360px;
-    left: 40.2%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 37.5rem;
+            height: 380px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
             
-    .growshop
-    {position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 33.33em;
-    height: 360px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-   
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 26rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 11rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 25rem;
-    font-size: 22px;
-    color: white;
-    }    }
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 30rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 31rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 79%;
+            left: 29rem;
+            font-size: 22px;
+            color: white;
+            }
+            }
+            
+        @media screen and (max-width: 900px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
+               
+            .growshop
+            {position: relative;
+            display: block;
+            width: 35.5rem;
+            height: 370px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+
+             .Tabaqueria
+            {position: relative;
+            width: 37rem;
+            height: 370px;
+            left: -5%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
+
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 35.5em;
+            height: 370px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 28rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 29rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 79%;
+            left: 27rem;
+            font-size: 22px;
+            color: white;
+            }    }
             
         
-@media screen and (max-width: 700px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 29.16em;
-    height: 350px;
-    left: 35%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 29.16em;
-    height: 350px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 22rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 9rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 21rem;
-    font-size: 22px;
-    color: white;
-    }    }
+        @media screen and (max-width: 800px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
+
+            .growshop
+            {position: relative;
+            display: block;
+            width: 28rem;
+            height: 360px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+
+            .Tabaqueria
+            {position: relative;
+            width: 29.5rem;
+            height: 360px;
+            left: -5%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
+                    
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 28rem;
+            height: 360px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+           
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 20rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 21rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 79%;
+            left: 19rem;
+            font-size: 22px;
+            color: white;
+            }    }
+                    
+                
+        @media screen and (max-width: 700px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
+
+            .growshop
+            {position: relative;
+            display: block;
+            width: 25rem;
+            height: 350px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+
+            .Tabaqueria
+            {position: relative;
+            width: 26rem;
+            height: 350px;
+            left: -5%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
             
-    
-@media screen and (max-width: 600px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 25em;
-    height: 340px;
-    left: 31%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 25rem;
+            height: 350px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
             
-    .growshop
-    {position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 25em;
-    height: 340px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 18rem;
-    font-size: 22px;
-    color: white;
-    }
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 18rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 19rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 79%;
+            left: 17rem;
+            font-size: 22px;
+            color: white;
+            }    }
+                    
+            
+        @media screen and (max-width: 600px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
+                            
+            .growshop
+            {position: relative;
+            display: block;
+            width: 21rem;
+            height: 340px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
 
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 7rem;
-    font-size: 22px;
-    color: white;
-    }
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 79%;
-    left: 17rem;
-    font-size: 22px;
-    color: white;
-    }    }
-   
-    
-@media screen and (max-width: 500px) {
-    .Grid-item1
-    {position: relative;
-    width: 55%;
-    height: 150px;
-    margin-top: 15px;
-    }
-    
-    .Tabaqueria
-    {position: relative;
-    width: 20.83em;
-    height: 330px;
-    left: 56%;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;}
-    
-    .growshop
-    {position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    .Coffeeshop
-    {position: relative;
-    display: block;
-    width: 20.83em;
-    height: 330px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;}
-    
-    #h2-1{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 14rem;
-    font-size: 22px;
-    color: white;
-    }
+            .Tabaqueria
+            {position: relative;
+            width: 22rem;
+            height: 340px;
+            left: -5%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
 
-    #h2-2{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 3rem;
-    left: 11rem;
-    font-size: 22px;
-    color: white;
-    }
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 21rem;
+            height: 340px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+            
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 14rem;
+            font-size: 22px;
+            color: white;
+            }
+        
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 15rem;
+            font-size: 22px;
+            color: white;
+            }
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 79%;
+            left: 13rem;
+            font-size: 22px;
+            color: white;
+            }    }
+           
+            
+        @media screen and (max-width: 500px) {
+            .Grid-item1
+            {position: relative;
+            width: 55%;
+            height: 150px;
+            margin-top: 15px;
+            }
+            
+            .growshop
+            {position: relative;
+            display: block;
+            width: 17.7rem;
+            height: 330px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
 
-    #h2-3{
-    display: inline;
-    z-index: 1;
-    position: relative;
-    top: 18rem;
-    left: 13rem;
-    font-size: 22px;
-    color: white;}
-}
+            .Tabaqueria
+            {position: relative;
+            width: 19rem;
+            height: 330px;
+            left: -9%;
+            border-top-left-radius: 30px;
+            border-bottom-left-radius: 30px;}
+
+            .Coffeeshop
+            {position: relative;
+            display: block;
+            width: 17.7rem;
+            height: 330px;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;}
+            
+            #h2-1{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 10rem;
+            font-size: 22px;
+            color: white;
+            }
+        
+            #h2-2{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 3rem;
+            left: 11rem;
+            font-size: 22px;
+            color: white;
+            }
+        
+            #h2-3{
+            display: inline;
+            z-index: 1;
+            position: relative;
+            top: 18.3rem;
+            left: 9rem;
+            font-size: 22px;
+            color: white;}
+        }

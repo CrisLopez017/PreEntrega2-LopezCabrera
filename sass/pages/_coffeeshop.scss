@@ -8,11 +8,11 @@
     align-items: center;}
     
     .productos_coffee_img1
-       {width: 55%;
-        height: 150px;
+       {width: 50%;
+        height: 250px;
         margin-top: 15px;
         position: relative;
-        left: 45%;
+        left: 50%;
         background-color: #732487;
         border: 10px;
         border-style:groove;
@@ -21,8 +21,8 @@
         }
     
     .productos_coffee_img2
-       {width: 55%;
-        height: 150px;
+       {width: 50%;
+        height: 250px;
         margin-top: 15px;
         background-color:#ffffff;
         border: 10px;
@@ -35,41 +35,290 @@
         {
         display: inline;
         width: 100%;
-        height: 150px;
+        height: 250px;
         padding-bottom: 25px;
         padding-right: 10px;
         }
     
     .div_text_coffee0{
-        height: 150px;
+        height: 250px;
         width: 40%;
-        border: 10px;
-        border-style:double;
-        border-color: rgb(131, 126, 126);
         position: relative;
-        bottom: 127%;
-        left: 135%;
+        bottom: 115%;
+        left: 139%;
         color: white;
     }
     .div_text_coffee2 {
-        height: 150px;
+        height: 250px;
         width: 40%;
-        border: 10px;
-        border-style:double;
-        border-color: rgb(131, 126, 126);
-        position: relative;
-        bottom: 9px;
-        left: 135%;
+        bottom: 264px;
+        left: 28rem;
         color: white;
     }
     
     .div_text_coffee1 {
-        height: 150px;
+        height: 250px;
         width: 40%;
-        border: 10px;
-        border-style:double;
-        border-color: rgb(131, 126, 126);
         position: relative;
-        bottom: 5px;
-        right: 75%;
+        bottom: 264px;
+        right: 76%;
         color:white}
+
+    #h3-0-coffee{
+    font-size: 1.7em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: -56%;
+    top: 38%;
+    color: black;
+    }
+
+    #p-0-coffee
+    {
+    font-size: 1em;
+    font-family: 'Noto Serif';
+    color:#bccc80;
+    text-align: center;
+    position: relative;
+    top: 4%;
+    left: 35%;
+    color: #c7c7c7;
+    }
+
+    #h3-1-coffee{
+    font-size: 1.4em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 92%;
+    top: 34%;
+    color: black;
+    }
+
+    #p-1-coffee{
+    font-size: 1em;
+    font-family: 'Noto Serif';
+    color:#bccc80;
+    text-align: center;
+    position: relative;
+    top: -7%;
+    right: 31%;
+    color:#732487;
+    }
+
+    #h3-2-coffee{
+    font-size: 1.7em;
+    font-family: 'Noto Serif';
+    position: relative;
+    left: 281%;
+    top: -61%;
+    color: black;
+    }
+
+    #p-2-coffee
+    {
+    font-size: 1em;
+    font-family: 'Noto Serif';
+    color:#bccc80;
+    text-align: center;
+    position: relative;
+    top: -96%;
+    left: 376%;
+    color: #c7c7c7;
+    }
+
+@media screen and (max-width: 900px)
+{
+        #h3-0-coffee{
+        font-size: 1.2em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 20%;
+        top: 3%;
+        color: black;
+        }
+    
+        #p-0-coffee
+        {
+        font-size: .9em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: 1%;
+        color: #c7c7c7;
+        }   
+
+        #h3-1-coffee{
+        font-size: 1.2em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 20%;
+        top: 3%;
+        color: black;
+        }
+
+        #p-1-coffee
+        {
+        font-size: .8em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: -14%;
+        color: #732487;
+        }
+        
+        #h3-2-coffee{
+        font-size: 1.2em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 357%;
+        top: -100%;
+        color: black;
+        }
+
+        #p-2-coffee
+        {
+        font-size: .9em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: -96%;
+        left: 344%;
+        color: #c7c7c7;
+        } 
+}
+
+@media screen and (max-width: 750px)
+{
+        #h3-0-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 20%;
+        top: 3%;
+        color: black;
+        }
+    
+        #p-0-coffee
+        {
+        font-size: .8em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: 1%;
+        color: #c7c7c7;
+        }   
+
+        #h3-1-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 15%;
+        top: 3%;
+        color: black;
+        }
+
+        #p-1-coffee
+        {
+        font-size: .7em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: -14%;
+        color: #732487;
+        }
+        
+        #h3-2-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 357%;
+        top: -100%;
+        color: black;
+        }
+
+        #p-2-coffee
+        {
+        font-size: .8em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: -96%;
+        left: 344%;
+        color: #c7c7c7;
+        } 
+}
+@media screen and (max-width: 600px)
+{
+        #h3-0-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 20%;
+        top: 3%;
+        color: black;
+        }
+    
+        #p-0-coffee
+        {
+        font-size: .7em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: 1%;
+        color: #c7c7c7;
+        }   
+
+        #h3-1-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 15%;
+        top: 3%;
+        color: black;
+        }
+
+        #p-1-coffee
+        {
+        font-size: .7em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: 4%;
+        left: -14%;
+        color: #732487;
+        }
+        
+        #h3-2-coffee{
+        font-size: 1.1em;
+        font-family: 'Noto Serif';
+        position: relative;
+        left: 357%;
+        top: -100%;
+        color: black;
+        }
+
+        #p-2-coffee
+        {
+        font-size: .7em;
+        font-family: 'Noto Serif';
+        color:#bccc80;
+        text-align: center;
+        position: relative;
+        top: -96%;
+        left: 344%;
+        color: #c7c7c7;
+        } 
+}
